@@ -1,0 +1,16 @@
+div.app-header{
+    margin: 1em 0;
+}
+div.app-header p{
+color: white;
+font-size: 1.2em;
+margin: .2em;
+}
+div.presentation-image{
+display: flex;
+justify-content: center;
+}
+img#bingo-icon{
+margin-top: auto;
+margin-bottom: auto;
+}
